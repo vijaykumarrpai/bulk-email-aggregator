@@ -21,6 +21,7 @@
     "cookie-session": "^1.4.0",
     "create-react-app": "^3.4.1",
     "express": "^4.17.1",
+    "localtunnel": "^2.0.0",
     "mongoose": "^5.9.22",
     "nodemon": "^1.19.4",
     "passport": "^0.4.1",
